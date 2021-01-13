@@ -1,13 +1,13 @@
 const staticCacheName = 'site-static-v5';
 const assets = [
-    '',
-    'index.html',
-    'about.html',
-    'js/app.js',
-    'js/materialize.min.js',
-    'css/styles.css',
-    'css/materialize.min.css',
-    'img/t2.png',
+    './',
+    './index.html',
+    './about.html',
+    './js/app.js',
+    './js/materialize.min.js',
+    './css/styles.css',
+    './css/materialize.min.css',
+    './img/t2.png',
 ];
 
 // install sw
